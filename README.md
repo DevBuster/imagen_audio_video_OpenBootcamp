@@ -14,9 +14,7 @@ Crea un nuevo documento HTML que cumpla los siguientes parámetros:
   - El vídeo debe mostrar los controles, reproducirse automáticamente y en bucle, PERO inicialmente debe estar sin sonido
 
 * Condiciones para la tercera sección
-
-Debe tener un título (h1) indicando "Aprendiendo a utilizar los audios"
-
+  - Debe tener un título (h1) indicando "Aprendiendo a utilizar los audios"
   - Descárgate cualquier audio de una canción de youtube
   - Debes incluir una etiqueta de audio que reproduzca el audio que acabas de descargar
   - El audio debe mostrar los controles, reproducirse automáticamente y en bucle
